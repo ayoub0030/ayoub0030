@@ -42,7 +42,7 @@ youtubeCreator – AI YouTube Content Analysis Tool
 
 📫 How to reach me:
 - Email: ayoub@example.com
-- LinkedIn: [linkedin.com/in/ayoubelmouden](https://linkedin.com/in/ayoubelmouden)
-- Portfolio: [ayoub.elmouden]([https://ayoubelmouden.vercel.app])
+- LinkedIn: [linkedin.com/in/ayoubelmouden](https://www.linkedin.com/in/ayoub-el-mouden)
+- Portfolio: [ayoubelmouden.vercel.app]([https://ayoubelmouden.vercel.app])
 
 ✨ *“Learning never exhausts the mind.” – Leonardo da Vinci*

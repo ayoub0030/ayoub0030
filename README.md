@@ -10,6 +10,9 @@
 - AI-Powered Education Assistant for Exams corection 
 - Homyz – Smart Home Service Booking Platform
 
+  ![GitHub followers](https://img.shields.io/github/followers/ayoub0030?style=social)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)
+
 
 🎯 Goals:
 - Build impactful AI tools for education and businesses in Morocco.

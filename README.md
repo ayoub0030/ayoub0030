@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I’m Ayoub El Mouden
 
-<!--
-**ayoub0030/ayoub0030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I’m a Computer Science student passionate about:
+- Artificial Intelligence & Machine Learning 🤖
+- Web Development (MERN & Python) 🌐
+- Cloud & DevOps ☁️
 
-Here are some ideas to get you started:
+🚀 Current projects:
+- Home Services Management Platform
+- AI-Powered Education Assistant for Exam Prep
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Goals:
+- Build impactful AI tools for education and businesses in Morocco.
+- Contribute to open-source and learn from the community.
+
+📫 How to reach me:
+- Email: ayoub@example.com
+- LinkedIn: [linkedin.com/in/ayoubelmouden](https://linkedin.com/in/ayoubelmouden)
+- Portfolio: [ayoub.dev](https://ayoub.dev)
+
+✨ *“Learning never exhausts the mind.” – Leonardo da Vinci*

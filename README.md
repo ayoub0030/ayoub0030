@@ -17,7 +17,7 @@
 
 📫 How to reach me:
 - Email: ayoub.elmeo@gmail.com
-- LinkedIn: [linkedin.com/in/ayoubelmouden](https://www.linkedin.com/in/ayoub-el-mouden)
+- LinkedIn: [linkedin.com/in/ayoub-el=mouden](https://www.linkedin.com/in/ayoub-el-mouden)
 - Portfolio: [ayoubelmouden.vercel.app]([https://ayoubelmouden.vercel.app])
 
 ✨ *“Learning never exhausts the mind.” – Leonardo da Vinci*

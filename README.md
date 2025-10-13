@@ -42,4 +42,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
 </p>
 
+"just say bismillah and start ! " _ Ayoub
+
 

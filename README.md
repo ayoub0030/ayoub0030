@@ -44,4 +44,6 @@
 
 "just say bismillah and start ! " _ Ayoub
 
+talk to me : https://www.tldraw.com/f/j-H0P2Il3U_LHoQ9MvS8N?d=v568.38.761.414.DVk17jDvORf39iH3xWcfH
+
 

@@ -41,7 +41,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
 </p>
 
-"just say bismillah and start ! " _ Ayoub
+"just say bismillah and start ! " _ Ayoub :"then finsh !!! ":
 <bt>
 share a message via :
 https://www.tldraw.com/f/X_X3dRzA_iInSqoiCrizd?d=v0.0.1274.696.page

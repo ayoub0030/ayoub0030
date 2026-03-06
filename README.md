@@ -5,14 +5,6 @@
 - Web Development (MERN & Python) 🌐
 - Cloud & DevOps ☁️
 
-🚀 Current projects:
-- LLM vulnerability scanner
-- AI-Powered Education Assistant for Exams corection 
-- Homyz – Smart Home Service Booking Platform
-
-
-
-
 🎯 Goals:
 - Build impactful AI tools for education and businesses in Morocco.
 - Contribute to open-source and learn from the community.

@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Ayoub El Mouden
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ayoub0030&color=blue)
-![Profile Views](https://komarev.com/ghpvc/?username=ayoub0030&style=flat-square&color=blue)
 
 💻 I’m a Computer Science student passionate about:
 - Artificial Intelligence & Machine Learning 🤖

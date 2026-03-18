@@ -2,7 +2,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ayoub0030&color=blue)
 
-💻 I’m a Computer Science student passionate about:
+💻 I’m a Computer Science passionate about:
+- Agentic Ai
 - Artificial Intelligence & Machine Learning 🤖
 - Web Development (MERN & Python) 🌐
 - Cloud & DevOps ☁️
